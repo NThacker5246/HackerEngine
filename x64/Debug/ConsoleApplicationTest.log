@@ -1,0 +1,12 @@
+﻿  ConsoleApplicationTest.cpp
+C:\Users\nicol\source\repos\ConsoleApplicationTest\ConsoleApplicationTest\ConsoleApplicationTest.cpp(62,20): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\nicol\source\repos\ConsoleApplicationTest\ConsoleApplicationTest\ConsoleApplicationTest.cpp(63,20): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  ConsoleApplicationTest.vcxproj -> C:\Users\nicol\source\repos\ConsoleApplicationTest\x64\Debug\ConsoleApplicationTest.exe
